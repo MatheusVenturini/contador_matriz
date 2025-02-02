@@ -24,6 +24,8 @@ A matriz NeoPixel exibirá o número correspondente à contagem.
 O LED vermelho pisca para indicar que o sistema está funcionando.
 A contagem é limitada de 0 a 9.
 
+ Para assistir o vídeo acesse o link: https://youtube.com/shorts/bwVtqc1dmXM?si=gr68RfLSZRMfG6Mw
+
 Pré-requisitos para abrir o projeto:
 
 Para configurar o ambiente de desenvolvimento, siga as instruções abaixo:
